@@ -1,9 +1,6 @@
 # DMM_Data_Logger
 
 
-**A Python data logger for the BOLYFA 117 Digital Multimeter
-**
-
 Based extensively on [Paul Daniels' BSIDE-ADM20](https://github.com/inflex/BSIDE-ADM20), this Python code will log the USB serial data
 from the BOLYFA 117 digital multimeter in CSV format
 
